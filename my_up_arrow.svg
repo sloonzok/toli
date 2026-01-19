@@ -5,7 +5,7 @@
    stroke="currentColor"
    id="svg4">
   <path
-     style="stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="stroke-width:0px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 12,4 10,4 12,1 14,4 12,4 12,12"
      id="path841" />
 </svg>
